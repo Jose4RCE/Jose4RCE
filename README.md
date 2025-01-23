@@ -115,7 +115,7 @@ text
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
 </h1> 
 
-<a href="      "><img src="     " alt="Fallout GIF" style="width:auto; height:auto"/></a>
+ 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.5/>
 
   <p align="center">
